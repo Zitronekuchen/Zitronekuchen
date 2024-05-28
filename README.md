@@ -19,14 +19,12 @@
   </a>-->
 </div>
 
----
 
 ### :woman_technologist: About Me :
 <p align="center"><b>💻 Developer since 2019<b/><p/>
 <p align="center"><b>📅 16 years old<b/><p/>
 <p align="center"><b>🤖 Minecraft Plugin developer<b/><p/>
 <p align="center"><b>🌐 Networkdeveloper<b/><p/>
----
 
                
                  
