@@ -19,13 +19,13 @@
   </a>-->
 </div>
 
-
+---
 ### :woman_technologist: About Me :
 <p align="center"><b>💻 Developer since 2020<b/><p/>
 <p align="center"><b>📅 16 years old<b/><p/>
 <p align="center"><b>🤖 Minecraft Plugin developer<b/><p/>
 <p align="center"><b>🌐 Networkdeveloper<b/><p/>
-
+---
                
                  
 ### :hammer_and_wrench: Languages and Tools :
@@ -63,16 +63,3 @@
 
 ---
 
-### 💻 GitHub Profile Stats :
-  <br/>
-  <p align="center">
-    <a href="https://github.com/Zitronekuchen"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Zitronekuchen&show_icons=true&count_private=true&theme=github_dark" height="192px"/></a>
-<br/>
-  &nbsp;
-
----
-
-### :fire: Best stats on GitHub :
-  <p align="center">
-      <a href="https://github.com/Zitronekuchen"><img alt="My best Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=Zitronekuchen&theme=github-dark-blue" height="192px"/></a>
-  </p>
