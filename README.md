@@ -21,7 +21,7 @@
 
 
 ### :woman_technologist: About Me :
-<p align="center"><b>💻 Developer since 2019<b/><p/>
+<p align="center"><b>💻 Developer since 2020<b/><p/>
 <p align="center"><b>📅 16 years old<b/><p/>
 <p align="center"><b>🤖 Minecraft Plugin developer<b/><p/>
 <p align="center"><b>🌐 Networkdeveloper<b/><p/>
@@ -74,5 +74,5 @@
 
 ### :fire: Best stats on GitHub :
   <p align="center">
-      <a href="https://github.com/Zitronekuchen"><img alt="My Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=Zitronekuchen&theme=github-dark-blue" height="192px"/></a>
+      <a href="https://github.com/Zitronekuchen"><img alt="My best Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=Zitronekuchen&theme=github-dark-blue" height="192px"/></a>
   </p>
